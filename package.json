@@ -1,0 +1,26 @@
+{
+  "name": "caveman-micro",
+  "version": "1.0.0",
+  "description": "6-line caveman micro prompt that outperformed the 552-token original. Benchmark included.",
+  "type": "module",
+  "scripts": {
+    "bench:live": "node scripts/live-benchmark.mjs",
+    "bench:live:dry": "BENCH_DRY=1 node scripts/live-benchmark.mjs",
+    "bench:analyze": "node scripts/analyze.mjs"
+  },
+  "keywords": [
+    "llm",
+    "tokens",
+    "caveman",
+    "prompt-engineering",
+    "token-efficiency",
+    "claude",
+    "chatgpt",
+    "benchmark"
+  ],
+  "author": "Cream Industries",
+  "license": "MIT",
+  "dependencies": {
+    "js-tiktoken": "^1.0.21"
+  }
+}
