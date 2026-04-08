@@ -1,5 +1,8 @@
 # caveman-micro
 
+<img width="1456" height="816" alt="jakguzik_Split_screen_infographic_style_illustration _Left_si_a0d87b94-f6d0-4aef-80ad-1e6ec4ae2cd6_1" src="https://github.com/user-attachments/assets/d8540991-cc97-400f-a92b-0c2bbd86745d" />
+
+
 **6 lines. 85 tokens. Outperformed the 552-token original.**
 
 We benchmarked the viral [caveman](https://github.com/JuliusBrussee/caveman) token-saving prompt on real coding tasks. Then we distilled it into 6 lines that beat the original on both Claude Sonnet and Opus.
